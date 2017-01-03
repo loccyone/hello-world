@@ -1,0 +1,3 @@
+Hello-World is a demo application for the tutorial of git-it.
+
+So far, there is not so much could be listed. Thus, to be continued...
